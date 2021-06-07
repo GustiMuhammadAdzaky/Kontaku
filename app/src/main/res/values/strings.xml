@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string-array name="kontak_sma">
+        <item>Amon</item>
+        <item>Juan</item>
+        <item>Tole</item>
+        <item>Iqbal</item>
+        <item>Nana</item>>
+        <item>Irfan</item>
+        <item>Bima</item>
+    </string-array>
+</resources>
